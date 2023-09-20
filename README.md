@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yash Mishra
-- 👀 I’m interested in ...
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning ...
-- 📫 How to reach me ..
+- 📫 How to reach me yashmishra9793@gmail.com
 
 
 <!---
